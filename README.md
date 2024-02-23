@@ -2,11 +2,11 @@
 A collection of links to all kinds of awesome resources on security, management, and general topics
 
 ## Tools
-| Link                                                                                                            | Descritpion                                                                                                              | Tags                                                         |
-| --------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| https://hexway.io/hive-apiary/                                                                                  | Pentest reporting and collaboration platform. Reasonalbe pricing, self-hosted option                                     | \#red_team \#securtiy                                        |
-| https://opentofu.org/blog/                                                                                      | Opensource alternative to Hashicorps Terraform                                                                           | \#free \#tf \#securtiy                                       |
-| https://github.com/openbao/openbao/tree/main                                                                    | Fork of Hashicorps Vault                                                                                                 | \#free \#vault \#securtiy                                    |
+| Link                                                                                         | Descritpion                                                                                                              | Tags                                                         |
+| -------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| https://hexway.io/hive-apiary/                                                               | Pentest reporting and collaboration platform. Reasonalbe pricing, self-hosted option                                     | \#red_team \#securtiy                                        |
+| https://opentofu.org/blog/                                                                   | Opensource alternative to Hashicorps Terraform                                                                           | \#free \#tf \#securtiy                                       |
+| https://github.com/openbao/openbao/tree/main                                                 | Fork of Hashicorps Vault                                                                                                 | \#free \#vault \#securtiy                                    |
 
 
 
