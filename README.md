@@ -1,6 +1,13 @@
 # all-sorts-of-awesomes
 A collection of links to all kinds of awesome resources on security, management, and general topics
 
+## Infosec Books and Articles 
+| Link                                                                                         | Descritpion                                                                                                              | Tags                                                         |
+| -------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy.pdf | Best in its class Information Security Strategy                                                                           | \#sec_management                                       |
+
+
+
 ## Tools
 | Link                                                                                         | Descritpion                                                                                                              | Tags                                                         |
 | -------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
