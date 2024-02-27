@@ -5,6 +5,7 @@ A collection of links to all kinds of awesome resources on security, management,
 | Link                                                                                         | Descritpion                                                                                                              | Tags                                                         |
 | -------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy.pdf | Best in its class Information Security Strategy                                                                           | \#sec_management                                       |
+|https://arkadiyt.com/2024/02/18/detecting-manual-aws-actions-an-update/ | A list of AWS API calls and corresponding parameter to monitor in order to uncover manual operations in the console | \#devsecops \#aws |
 
 
 
